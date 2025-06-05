@@ -1,2 +1,4 @@
 # UCS_Zh
-固化土强度预测
+将
+catboost_model.pkl与soil_strength_predictor_gui.py放到同一路径下运行soil_strength_predictor_gui.py即可
+若电脑未配置python环境，可通过此链接下载软件：
